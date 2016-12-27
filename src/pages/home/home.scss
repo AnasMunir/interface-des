@@ -1,0 +1,55 @@
+.page-home {
+	 .content{
+    background-image: url('../../assets/img/map.png');
+    background: cover;
+    width: 100%;
+    height: 100%;
+    background-size: 250%;
+    background-position:65% 50%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+  
+     .item{
+    background-color: rgba(0,0,0,0.7) !important;
+  }
+
+  .label{
+    color: #fff !important;
+  }
+
+    .see-all{
+    text-align: center !important;
+  }
+
+  .input{
+    color: #fff !important;
+  }
+
+    .card-title {
+    text-align: center;
+    font-size: 2.0em;
+    width: 100%;
+    font-weight: bold;
+    color: #fff;
+  }
+
+  .card-subtitle {
+    text-align: center;
+    width: 100%;
+    color: #fff;
+  }
+
+  .estimate-card{
+    background-color: rgba(0,0,0,0.9) !important;
+  }
+
+  .white-text{
+    color: #fff !important;
+  }
+    .centre{
+    text-align: center !important;
+  }
+}

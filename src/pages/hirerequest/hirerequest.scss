@@ -1,0 +1,49 @@
+.hirerequest-page {
+
+  .toolbar-background {
+    background: #fff;
+    border-color: transparent;
+  }
+ion-card.adv-map p {
+  font-size: 0.7em !important;
+}
+
+button[fab].fab-map {
+  top: calc(100% - 35px);
+  z-index: 50;
+}
+
+.item-bold {
+  font-weight: bold;
+}
+
+ion-content.cards-bg {
+  background-color: #f4f4f7;
+}
+
+   .card-title {
+    text-align: center;
+    font-size: 2.0em;
+    width: 100%;
+    font-weight: bold;
+    color: #fff;
+  }
+
+  .card-subtitle {
+    text-align: center;
+    width: 100%;
+    color: #fff;
+  }
+
+  .countdown-card{
+    background-color: rgba(0,0,0,0.9) !important;
+  }
+
+  .white-text{
+    color: #fff !important;
+  }
+
+}
+
+ 
+ 

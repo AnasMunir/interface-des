@@ -1,0 +1,95 @@
+.preorder-page {
+
+  .toolbar-background {
+    background: #fff;
+    border-color: transparent;
+  }
+
+  .slide-zoom {
+    height: 100%;
+  }
+
+  .slide-title {
+    margin-top: 2.8rem;
+  }
+
+  .slide-image {
+    max-height: 50%;
+    max-width: 60%;
+    margin: 18px 0;
+  }
+
+  .centre{
+    text-align: center !important;
+  }
+   .buttons{
+    text-align: center !important;
+  }
+  b {
+    font-weight: 500;
+  }
+
+  p {
+    padding: 0 40px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #60646B;
+
+    b {
+      color: #000000;
+    }
+  }
+
+   .item{
+    background-color: rgba(0,0,0,0.7) !important;
+  }
+
+  .label{
+    color: #bfbfbf !important;
+  }
+
+  .input{
+    color: #fff !important;
+  }
+
+  button{
+    color: #fff !important;
+  }
+
+  .content{
+    z-index: -1;
+  }
+
+  .inner-content{
+   
+  }
+
+  .heading{
+    text-align: center;
+  }
+ 
+   .card-title {
+    text-align: center;
+    font-size: 2.0em;
+    width: 100%;
+    font-weight: bold;
+    color: #fff;
+  }
+
+  .card-subtitle {
+    text-align: center;
+    width: 100%;
+    color: #fff;
+  }
+
+  .estimate-card{
+    background-color: rgba(0,0,0,0.9) !important;
+  }
+
+  .white-text{
+    color: #fff !important;
+  }
+}
+
+ 
+ 
